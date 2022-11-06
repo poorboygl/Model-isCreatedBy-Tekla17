@@ -1,0 +1,2 @@
+The following errors occurred during the run: 
+Failed to parse the classifier file: C:\TeklaStructures\2022.0\environments\common\system\standard.cud.copt, it seems to be corrupted.

@@ -1,40 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE TeklaStructuresModels>
-<TeklaStructuresModels>
-<Model>
-<Name>
-Model-isCreatedBy-Tekla17
-</Name>
-<Designer>
- 
-</Designer>
-<Description>
- 
-</Description>
-<Version>
-17.0 Service Release 5
-</Version>
-<Language>
-enu
-</Language>
-<Template>
-
-</Template>
-<Environment>
-korea
-</Environment>
-<IsTemplate>
-FALSE
-</IsTemplate>
-<XS_PROJECT>
-
-</XS_PROJECT>
-<XS_FIRM>
-
-</XS_FIRM>
-<XS_SYSTEM>
-C:\TeklaStructures\17.0\\environments\korea\system\;C:\TeklaStructures\17.0\\environments\default\system\;C:\TeklaStructures\17.0\\environments\common\system\
-</XS_SYSTEM>
-</Model>
-</TeklaStructuresModels>
-
+<TeklaStructuresModels>
+    <Model>
+        <Name>Model-isCreatedBy-Tekla17</Name>
+        <Designer> </Designer>
+        <Description> </Description>
+        <Version>2022 Service Pack 5</Version>
+        <ProductVersion>2022.0</ProductVersion>
+        <Language>enu</Language>
+        <Template></Template>
+        <Environment>korea</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>C:\TeklaStructures\2022.0\\environments\korea\system\;C:\TeklaStructures\2022.0\\environments\default\system\;C:\TeklaStructures\2022.0\\environments\common\system\</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>

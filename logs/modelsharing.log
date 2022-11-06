@@ -1,0 +1,7 @@
+[2022-11-06T01:40:02Z] Compact callbacks (153 ms) ioUpdatePlotBufferAfterCompactingCB(0 ms) UpdateLastSelectedViewIdAfterCompactingCB(0 ms) IdsCompactedSelectDatabaseCB(0 ms) UpdateViewIdsAfterCompactingCB(0 ms) dbv::UpdateDbfastCachesCB(0 ms) srchUpdateSearchTreeAfterCompactingCB(0 ms) filUpdateViewFilterMapIdsAfterCompactingCB(0 ms) dglUpdatePlaneIdAfterCompactingCB(0 ms) dbConflictManager_c/UpdateModelIdsAfterCompactingCB(86 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) DrawingIdsChangedCB(67 ms) SketchRepository_c(0 ms) rbrSpatialInformation_c::UpdateAfterCompacting(0 ms) UpdateModelIdsAfterCompactingCB(0 ms) 
+[2022-11-06T01:40:02Z] Compact callbacks (0 ms) dbConflictManager_c/UpdateLibraryIdsAfterCompactingCB(0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) SketchRepository_c(0 ms) 
+[2022-11-06T01:40:11Z] Model sharing key not found in directory: C:\Users\Admin\Desktop\Example\Model-isCreatedBy-Tekla17\.
+[2022-11-06T01:40:54Z] Save check ids callbacks (1 ms) solstoInitializeSolidCache(0 ms) CheckViewIdsBeforSaveCB(1 ms) ioCheckIdsBeforeSaveCB(0 ms) CheckLastSelectedViewIdBeforSaveCB(0 ms) srchCheckIdsBeforeSaveCB(0 ms) dbv::CheckFastCacheIdsBeforeSaveCB(0 ms) filCheckIdsBeforeSaveCB(0 ms) dglCheckIdsBeforeSaveCB(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2022-11-06T01:40:54Z] *** Save Model ***
+[2022-11-06T01:40:54Z] Save check ids callbacks (0 ms) solstoInitializeSolidCache(0 ms) solstoInitializeRestrictionBoxCache(0 ms) 
+[2022-11-06T01:40:54Z] *** Save Library ***
